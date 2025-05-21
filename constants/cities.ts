@@ -1,0 +1,22 @@
+export const CITIES = [
+  "Marrakech",
+  "Rabat",
+  "Casablanca",
+  "Fes",
+  "Tanger",
+  "Agadir",
+  "Meknes",
+  "Oujda",
+  "Kenitra",
+  "Tetouan",
+  "El Jadida",
+  "Safi",
+  "Mohammedia",
+  "Khouribga",
+  "Beni Mellal",
+  "Nador",
+  "Taza",
+  "Settat",
+  "Berrechid",
+  "Khemisset"
+];
